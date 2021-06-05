@@ -11,8 +11,8 @@ From what I have observed, primarily with how our CTO at :Different influences a
  - the overall health and reliability of the system
  - human users utilizing the behavior implemented to satisfy functional requirements
  - the graceful evolution of the system (without having to rewrite it from the ground up one year after it goes live, or regretting technical choices made)
- - monitoring and tracing potential negative system behaviour
- - extensibility and scaling (whether it's humans or external systems/processes)
+ - observability, monitoring, and tracing potential negative system behaviour
+ - extensibility and scaling (whether it's humans and/or external systems/processes)
  - business success (partly a function of getting everything above right in the first place)
 
 Also, this by no means implies that developers do not have any responsibility or accountability for system requirements. Churning out code that satisfies functional requirements is easy. Writing efficient code that satisfies functional requirements _and_ optimizes serial process/request latency is hard.
