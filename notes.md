@@ -12,15 +12,15 @@ as a digital filing cabinet of sorts.
 _If interested in how and why I like to organize my learning as such, you might like to read up on the [Zettelkasten](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/) method, although my approach below
 does not follow the specific canonical method. I am heavily inspired by it though._
 
-1. Software Architecture
-    1. System Requirements vs Functional Requirements
+1. **Software Architecture**
+    1. [System Requirements vs Functional Requirements]({{ site.baseurl }}/_notes/_sysrequirements/sysrequirements)
     2. Performance
     3. Scalability
     4. Reliability
     5. Security
     6. Deployments(?)
 
-2. Computer Science
+2. **Computer Science**
     1. Analysis of Algorithms
     2. Data Structures
     3. Graphs
@@ -29,7 +29,7 @@ does not follow the specific canonical method. I am heavily inspired by it thoug
     6. Intractable problems
     7. Models of Computation
 
-3. System Design
+3. **System Design**
     1. Systems thinking
     2. Concurrency vs Parallelism
     3. Distributed System concepts
@@ -38,7 +38,7 @@ does not follow the specific canonical method. I am heavily inspired by it thoug
     6. Big Data systems design
     7. Lambda/Kappa Architecture
 
-4. Misc Topics
+4. **Misc Topics**
     1. Quantum computing
 
 
