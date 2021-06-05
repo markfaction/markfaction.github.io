@@ -5,12 +5,9 @@ permalink: /notes/
 ---
 
 
-Below is a collection of my condensed notes on various topics on computer science, software architecture, and system design, most in a constant state of work in progress. 
-I jot them down as a method of off-loading what I learn from various resources and in my daily work, into this 'second brain' as I call it, which serves 
-as a digital filing cabinet of sorts.
+Below is a collection of my condensed notes on various topics on computer science, software architecture, and system design, most in a constant state of work in progress. I jot them down as a method of off-loading what I learn from various resources and in my daily work, into this 'second brain' as I call it, which serves as a digital filing cabinet of sorts.
 
-_If interested in how and why I like to organize my learning as such, you might like to read up on the [Zettelkasten](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/) method, although my approach below
-does not follow the specific canonical method. I am heavily inspired by it though._
+_If interested in how and why I like to organize my learning as such, you might like to read up on the [Zettelkasten](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/) method, although my approach below does not follow the specific canonical method. I am heavily inspired by it though._
 
 1. **Software Architecture**
     1. [System Requirements vs Functional Requirements]({{ site.baseurl }}/notes/softwarearchitecture/systemrequirements.html)
