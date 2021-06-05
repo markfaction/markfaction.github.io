@@ -13,7 +13,7 @@ _If interested in how and why I like to organize my learning as such, you might 
 does not follow the specific canonical method. I am heavily inspired by it though._
 
 1. **Software Architecture**
-    1. [System Requirements vs Functional Requirements]({{ site.baseurl }}/_notes/_sysrequirements/sysrequirements)
+    1. [System Requirements vs Functional Requirements]({{ site.baseurl }}/notes/softwarearchitecture/systemrequirements)
     2. Performance
     3. Scalability
     4. Reliability
