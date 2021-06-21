@@ -1,9 +1,4 @@
-<!---
----
-layout: post
-title: The Toshiba MSX home computer and 64Kb of RAM
----
--->
+
 
 When I was young, I grew up surrounded by old computing (and electronics) magazines, issues from the 60’s, 70’s, and 80’s, a majority of them being the popular publication “creative computing”. I used to read them (and re-read them) voraciously during a time period where people around me were working on PCs running Windows 3.1, which were just emerging into schools, offices, and to a somewhat rare extent, homes. I remember being quite an antiquarian when it came to these old computing magazines and publications, but I enjoyed reading and learning about how the very first computers looked and operated, about the DEC PDP-11, the Macintosh, the IBM PC with all the Charlie Chaplin adverts, and how the landscape of personal computing was constantly evolving to become what it is today…
 
