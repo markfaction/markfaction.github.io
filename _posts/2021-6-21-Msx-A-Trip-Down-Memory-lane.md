@@ -1,3 +1,5 @@
+__zmeta_tags: 
+__zmeta_project: 
 ---
 layout: post
 title: The Toshiba MSX home computer, and 64Kb of RAM
@@ -5,7 +7,7 @@ title: The Toshiba MSX home computer, and 64Kb of RAM
 
 When I was young, I grew up surrounded by old computing (and electronics) magazines, issues from the 60’s, 70’s, and 80’s, a majority of them being the popular publication “creative computing”. I used to read them (and re-read them) voraciously during a time period where people around me were working on PCs running Windows 3.1, which were just emerging into schools, offices, and to a somewhat rare extent, homes. I remember being quite an antiquarian when it came to these old computing magazines and publications, but I enjoyed reading and learning about how the very first computers looked and operated, about the DEC PDP-11, the Macintosh, the IBM PC with all the Charlie Chaplin adverts, and how the landscape of personal computing was constantly evolving to become what it is today…
 
-Images
+![image1](/post-images/post1/image1.jpeg)
 
 When remembering all those old computer magazines and articles, what I really miss and remain nostalgic about, is my dads Toshiba MSX home computer which he had bought during the 80’s and was the first ever computer that I learned to program on. I was introduced to programming at a very young age, as I was always curious about this machine that my dad used to work on, where the display was a television set connected via RF cable and programs were stored and loaded on audio cassette tapes. The Toshiba MSX home computer was first announced by Microsoft in 1983, and conceived by the then vice-president of Microsoft Japan, Kazuhiko Nishi. The MSX computer was quite famous for being an architecture that major Japanese game corporations wrote games for, before the Nintendo era (the first version of metal gear was written for the MSX architecture).
 
