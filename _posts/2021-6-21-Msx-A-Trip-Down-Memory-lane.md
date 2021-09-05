@@ -1,5 +1,3 @@
-__zmeta_tags: 
-__zmeta_project: 
 ---
 layout: post
 title: The Toshiba MSX home computer, and 64Kb of RAM
