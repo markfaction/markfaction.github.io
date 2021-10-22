@@ -9,5 +9,5 @@ permalink: /about/
 I am a software developer and team lead.
 
 ### Contact me
-I am mostly active on [LinkedIn](https://www.linkedin.com/in/marksinnathamby/) and [Twitter](https://twitter.com/markfaction). You can also email me, though my responses to email might be a bit slow.
+I am mostly active on [LinkedIn](https://www.linkedin.com/in/marksinnathamby/) and [Twitter](https://twitter.com/markfaction). You can also [email](mailto:markfaction@hotmail.com) me, though my responses to email might be a bit slow.
 
