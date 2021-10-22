@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title:
 permalink: /about/
 ---
 
-Some information about you!
+![_config.yml]({{ site.baseurl }}/images/about.jpg)
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a software developer and team lead.
 
 ### Contact me
+I am mostly active on [LinkedIn](https://www.linkedin.com/in/marksinnathamby/) and [Twitter](https://twitter.com/markfaction). You can also email me, though my responses to email might be a bit slow.
 
-[email@domain.com](mailto:email@domain.com)
