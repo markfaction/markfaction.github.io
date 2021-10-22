@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-<img src="images/about.jpg" height="200" width="200">
+<img src="/images/about.jpg" height="200" width="200">
 
 I am a software developer and team lead.
 
