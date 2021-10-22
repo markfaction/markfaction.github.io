@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-![_config.yml]({{ site.baseurl }}/images/about.jpg)
+<img src="images/about.jpg" height="200" width="200">
 
 I am a software developer and team lead.
 
