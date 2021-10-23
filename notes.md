@@ -5,7 +5,7 @@ permalink: /notes/
 ---
 
 
-#### A collection of my condensed notes on computer science, software architecture, system design, and various other misc topics that I jot down for self-reference. 
+##### A collection of my condensed notes on computer science, software architecture, system design, and various other misc topics that I jot down for self-reference. 
 
 _If interested in maintaining some organization and structure around the process of learning and processing information, you might like to read up on the [Zettelkasten](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/) method. Although my notes do not follow the specific canonical method, I am heavily inspired by it._
 
