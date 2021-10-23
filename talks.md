@@ -4,6 +4,8 @@ title:
 permalink: /talks/
 ---
 
+
+
 #### Dev Day 2016
 Session on Hololens Development at Dev Day 2016 Sri Lanka
 
