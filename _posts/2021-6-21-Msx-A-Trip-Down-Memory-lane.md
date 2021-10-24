@@ -7,11 +7,12 @@ When I was young, I grew up surrounded by old computing and electronics magazine
 
 <img src="/images/2021-6-21/img1.jpg" style="display:compact;margin-right:auto;width:20%">
 <img src="/images/2021-6-21/img2.jpg" style="display:compact;margin-right:auto;width:30%">
-<img src="/images/2021-6-21/img3.jpg" style="display:compact;margin-right:auto;width:35%">
-<img src="/images/2021-6-21/img4.jpg" style="display:block;margin-left:auto;margin-right:auto;width:45%">
+<img src="/images/2021-6-21/img4.jpg" style="display:compact;margin-left:auto;margin-right:auto;width:40%">
 
 
 When remembering all those old computer magazines and articles, what I really miss and remain nostalgic about, is my dads Toshiba MSX home computer which he had bought during the 80’s and was the first ever computer that I learned to program on. I was introduced to programming at a very young age, as I was always curious about this machine that my dad used to work on, where the display was a television set connected via RF cable and programs were stored and loaded on audio cassette tapes. The Toshiba MSX home computer was first announced by Microsoft in 1983, and conceived by the then vice-president of Microsoft Japan, Kazuhiko Nishi. The MSX computer was quite famous for being an architecture that major Japanese game corporations wrote games for, before the Nintendo era (the first version of metal gear was written for the MSX architecture).
+
+<img src="/images/2021-6-21/img3.jpg" style="display:block;margin-left:auto;margin-right:auto;width:60%">
 
 The MSX HX-10 model which my dad owned was an amazingly simple machine by today’s standards, having no internal storage or hard drive, instead relying on an external audio cassette recorder to load and store programs on cassette tape (there was a cartridge slot, but audio cassette tapes were widely used as they were a cost effective medium, with plenty available). The HX-10 model was based on a Zilog-Z80 processor and came with 64Kb of RAM (user space was about half that, giving about 28Kb for the user with the rest used by the system), which was basically what you had to work with. The machine used a version of the BASIC programming language known as MSX BASIC, which came pre-installed in the ROM.
 
