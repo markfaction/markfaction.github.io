@@ -31,22 +31,20 @@ My dad was (and still is) an avid programming and electronics hobbyist, and taug
 
 Thinking back, I now realize that it was a time period where I was so used to the MSX machine, that it was a strange context switch to work on a PC running Windows/Linux for the first time. One would assume that it would be trivial (and even a welcome change) to switch from a terminal based 80’s machine to a PC running a GUI based operating system, but trust me, I found it very hard to give up the whirring tape recorder of the MSX machine and the television set as a VDU.
 
-Fast forward to the present (circa 2021 at the time of writing), computers and programming from the home computing era have evolved today into networks/data-centers, vast public/proprietery infrastructure topologies, everything-as-a-computer (home, car, IOT, etc), and multi-layered abstractions at all levels. Underlying fundamental concepts of how a computer operates on data and instructions, are considered too low level or unnecessary. This is a symptom of what has evolved layer by layer on top of the computing machine over the years, which has made engineers and developers reap vast benefits from technological advances, but maybe not understand them that well (which brings about its own consequences). A far different picture from the generic home computer owner of a bygone era, an individual who had to learn how the machine worked and program it on their own, reaping the benefits from the machine while understanding how and why it works. Riding atop nostalgia is an air of pensiveness, regarding many aspects of how technologically advanced we are today.
-
-Learning about computers and programming at a very young age, has been influential towards what I do today in my career. In spite of all the hardware/software advances, latest n-th gen programming languages, groundbreaking paradigms, and complex abstractions, all of which I enjoy learning and working with, I am still drawn to vintage computers and old school (retro) programming, in a large part due to my experience with the Toshiba MSX. That was a time period I can always look back on and count myself lucky to have been through, a journey that has always inspired and motivated my love of technology, computers, and coding.
+Learning about computers and programming from a very young age, has been influential towards what I do today in my career as a software engineer and developer. Despite all the latest advances in hardware, software, programming languages/tools, frameworks, etc (all of which I enjoy learning and working with), I am still drawn to vintage computers and old school programming, in a large part due to my experience with the Toshiba MSX. That was a time period I can always look back on and count myself lucky to have been through, a journey that has always inspired and motivated my love of technology, computers, and coding.
 
 _Image credits (in order of appearance):_
-1. [Charlie Chaplin advert](http://www.criticalcommons.org/Members/ccManager/clips/ibm-modern-times-ad/view)
-2. [Creative computing cover view](http://www.pcmuseum.ca/details.asp?id=40979&type=Magazine)
-3. [Microsoft Multiplan advert](http://www.alticoadvisors.com/Blog/tabid/183/id/441/Friday-Funday-Blast-from-the-Past-Vintage-Microsoft-Ads.aspx)
-4. [Macintosh advert](http://www.computerhistory.org/revolution/personal-computers/17/303/1201)
-5. [Toshiba MSX unboxed](http://www.nightfallcrew.com/07/11/2010/toshiba-msx-home-computer-hx-10/?lang=it)
-6. [Toshiba MSX rear panel view](http://www.amibay.com/showthread.php?48508-Toshiba-MSX-boxed-joystick-lightpen-and-games-(looks-NEW))
-7. [Toshiba MSX external audio cassette recorder](http://www.retrocom.org/index.php/gallery/gallery-toshiba/hx-10-cassette-recorder-open-304#joomimg)
-8. [Toshiba MSX start screen]( http://www.nightfallcrew.com/07/11/2010/toshiba-msx-home-computer-hx-10/?lang=it)
-9. [Z80 Assembly book](https://archive.org/details/Z-80_Assembly_Language_Programming_1979_Leventhal)
-10. [Toshiba MSX manual]( http://www.computinghistory.org.uk/det/24550/Getting%20the%20Best%20fron%20your%20MSX/)
-11. [The MSX games book](http://www.computinghistory.org.uk/det/15259/The%20Msx%20Games%20Book/)
-12. [MSX utilities book](http://www.computinghistory.org.uk/det/15261/Useful%20Utilities%20for%20Your%20MSX/)
+1. _[Charlie Chaplin advert](http://www.criticalcommons.org/Members/ccManager/clips/ibm-modern-times-ad/view)_
+2. _[Creative computing cover view](http://www.pcmuseum.ca/details.asp?id=40979&type=Magazine)_
+3. _[Microsoft Multiplan advert](http://www.alticoadvisors.com/Blog/tabid/183/id/441/Friday-Funday-Blast-from-the-Past-Vintage-Microsoft-Ads.aspx)_
+4. _[Macintosh advert](http://www.computerhistory.org/revolution/personal-computers/17/303/1201)_
+5. _[Toshiba MSX unboxed](http://www.nightfallcrew.com/07/11/2010/toshiba-msx-home-computer-hx-10/?lang=it)_
+6. _[Toshiba MSX rear panel view](http://www.amibay.com/showthread.php?48508-Toshiba-MSX-boxed-joystick-lightpen-and-games-(looks-NEW))_
+7. _[Toshiba MSX external audio cassette recorder](http://www.retrocom.org/index.php/gallery/gallery-toshiba/hx-10-cassette-recorder-open-304#joomimg)_
+8. _[Toshiba MSX start screen](http://www.nightfallcrew.com/07/11/2010/toshiba-msx-home-computer-hx-10/?lang=it)_
+9. _[Z80 Assembly book](https://archive.org/details/Z-80_Assembly_Language_Programming_1979_Leventhal)_
+10. _[Toshiba MSX manual](http://www.computinghistory.org.uk/det/24550/Getting%20the%20Best%20fron%20your%20MSX/)_
+11. _[The MSX games book](http://www.computinghistory.org.uk/det/15259/The%20Msx%20Games%20Book/)_
+12. _[MSX utilities book](http://www.computinghistory.org.uk/det/15261/Useful%20Utilities%20for%20Your%20MSX/)_
 
 
