@@ -3,7 +3,7 @@ layout: post
 title: A playbook for effective code reviews in engineering teams
 ---
 
-*Many times in the past, I have been asked by a number engineers on how they can be effective at reviewing code written by others. Generally this implies on how to effectively follow up on a pull request (specially in cases where they are new to the system or tech stack), but the question could also originate from trying to understand a codebase during onboarding, and/or reading (legacy) code for rewrites/refactoring. My focus in this post is how I answer the question to the former, i.e. what are the driving factors of an effective code/PR review in a given development workflow.*
+*Many times in the past, I have been asked by a number of engineers on how they can be effective at reviewing code written by others. Generally this implies on how to effectively follow up on a pull request (specially in cases where they are new to the system or tech stack), but the question could also originate from trying to understand a codebase during onboarding, and/or reading (legacy) code for rewrites/refactoring. My focus in this post is how I answer the question to the former, i.e. what are the driving factors of an effective code/PR review in a given development workflow.*
 
 Most observations I have made in the past regarding engineering teams, have been of typical six to eight person squads working on applications with web + mobile front ends and multiple backend systems, utilizing a selected branching strategy with code review gates that determine what gets integrated and travels downstream. 
 
