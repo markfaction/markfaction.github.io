@@ -39,7 +39,7 @@ The above three story slices are extracted from the original story. What should 
 
 A developer would then take a story slice into the Kanban workflow, implement it, raise pull requests for review, and merge + deploy the changes, all within the span of roughly half a day to one day.
 
- Observable outcomes were 
+ Observable outcomes:
 
 - Faster cycle time - implementing small units of value imply small PRs, which in turn makes the review/merge/deploy/feedback loop run faster
 - Improved developer productivity and agility - the depth of the problem domain + technical solution of a story slice is far smaller and digestible than a complex business expectation compressed within a single user story
