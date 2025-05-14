@@ -3,9 +3,9 @@ layout: post
 title: A history of concurrent computing and the actor model - part 1
 ---
 
-*This post is copied over (and slightly modified) from an [old blog post I wrote in 2018](https://markfaction.wordpress.com/2018/03/12/a-history-of-concurrent-programming-and-actor-based-frameworks-part-1/) on wordpress.*
-
 [Keywords: Computation, Concurrency, Finite State Machines, Regular Language, Determinism, Turing Machine]
+
+*This post is copied over (and slightly modified) from an [old blog post I wrote in 2018](https://markfaction.wordpress.com/2018/03/12/a-history-of-concurrent-programming-and-actor-based-frameworks-part-1/) on wordpress.*
 
 
 #### Early origins
