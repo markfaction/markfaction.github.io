@@ -33,7 +33,7 @@ My dad was (and still is) an avid programming and electronics hobbyist, and taug
 
 Thinking back, I now realize that it was a time period where I was so used to the MSX machine, that it was a strange context switch to work on a PC running the Windows OS for the first time. One would assume that it would be a natural and welcome change to switch from the terminal based 80’s machine to a PC running a GUI based operating system, but trust me, I found it very hard to give up on the whirring tape recorder of the MSX machine and the home television as the video display unit.
 
-Learning about computers and programming at a very young age has been influential in what I do today in my career as a developer and programmer. I am still drawn to vintage computers and archaic programming languages in a large part due to my early experience with the Toshiba MSX. That was a time period I always reminisce about, on how it inspired my love of computers and programming.
+Learning about computers and programming at a very young age has been influential in what I do today in my career as a developer and programmer. I am still drawn to vintage computers and archaic programming languages in a large part due to my early experience with the Toshiba MSX. That is a time period I always reminisce about, on how it inspired my love of computers and programming.
 
 _Image credits (in order of appearance):_
 1. _[Charlie Chaplin advert](http://www.criticalcommons.org/Members/ccManager/clips/ibm-modern-times-ad/view)_
