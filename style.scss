@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Lucida Sans Typewriter", "Courier New", monospace;
+  font-family: "Andale Mono", AndaleMono, monospace;
   color: $darkerGray;
   font-weight: bold;
 
@@ -111,7 +111,7 @@ img {
 }
 
 .site-info {
-  font-family: "Lucida Sans Typewriter", "Courier New", monospace;
+  font-family: "Andale Mono", AndaleMono, monospace;
 }	
 
 // Fixes images in popup boxes from Google Translate
@@ -198,7 +198,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: "Lucida Sans Typewriter", "Courier New", monospace;
+  font-family: "Andale Mono", AndaleMono, monospace;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -217,7 +217,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: "Lucida Sans Typewriter", "Courier New", monospace;
+  font-family: "Andale Mono", AndaleMono, monospace;
   font-size: 18px;
 
   @include mobile {
@@ -249,7 +249,7 @@ nav {
 }
 
 .entry {
-  font-family: "Lucida Sans Typewriter", "Courier New", monospace;
+  font-family: "Andale Mono", AndaleMono, monospace;
   text-align: justify;	
 }
 
@@ -266,7 +266,7 @@ nav {
 
 .post {
   text-align: justify;
-  font-family: monospace;
+  font-family: "Andale Mono", AndaleMono, monospace;
   
   blockquote {
     margin: 1.8em .8em;
